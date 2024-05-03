@@ -7,5 +7,5 @@ I learn  two-seprate line write into single one-line.
 In Question no#06
 I learn how to add new line and new tab.
 In Question no#07
-I learn
+I learn basic airthmatic operator .
 
